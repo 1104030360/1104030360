@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timmy Lin</h1>
-<h3 align="center">A MIS student from TAIWAN</h3>
+<h3 align="center">A MIS student from Taiwan</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/1104030360](https://github.com/1104030360)
 
