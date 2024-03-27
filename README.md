@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://1104030360.github.io/Timmy_Personal_Blog/](https://1104030360.github.io/Timmy_Personal_Blog/)
 
-- - 📫 Reach me **5961timtim@gmail.com**
+- 📫 Reach me **5961timtim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
