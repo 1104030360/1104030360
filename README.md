@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Timmy Lin</h1>
-<h3 align="center">A student from Taiwan</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=header"/>
+
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Timmy Lin
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=AI+R%26D+Engineer+%40+ARDGE;Technical+Intern+%40+Microsoft+Taiwan;A+student+from+Taiwan;AI+%26+Full-Stack+Developer;Passionate+about+building+cool+stuff" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/timmyyt" target="_blank">
@@ -71,3 +78,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1104030360&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=footer"/>
