@@ -35,10 +35,10 @@
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Python, Java, JavaScript, QML |
-| **Frontend** | Vue.js, React, HTML5, CSS |
+| **Frontend** | Vue.js, React, HTML5, CSS3 |
 | **Backend** | Flask, Django, FastAPI, Java Servlet |
 | **Database** | MySQL, PostgreSQL, FAISS |
-| **AI/ML** | RAG, Multi-Agent, AutoGen, LLM, VLM, OpenCV |
+| **AI/ML** | RAG, Multi-Agent, AutoGen, LLM, OpenCV |
 | **DevOps** | Docker, Git |
 | **Cloud** | Microsoft Azure |
 
@@ -50,7 +50,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Capstone-Project**](https://github.com/1104030360/Capstone-Project) | Cross-platform desktop app using multi-modal AI for service satisfaction analysis | QML, AI |
+| [**Capstone-Project**](https://github.com/1104030360/Capstone-Project) | Cross-platform desktop app using multi-modal AI for service satisfaction analysis | Python, QML, AI |
 | [**Library_System**](https://github.com/1104030360/Library_System) | Containerized, AI-driven library management system | Java, Vue.js, Docker |
 | [**KAI-Mind**](https://github.com/1104030360/KAI-Mind) | Flask-based AI helpdesk platform with RAG multi-agent orchestration | Python, Flask, FAISS |
 | [**AI-Interview-Pro-**](https://github.com/1104030360/AI-Interview-Pro-) | Interview training platform with multi-LLM AI coach and real-time emotion analysis | React, Flask, LLM |
@@ -59,11 +59,11 @@
 
 ---
 
-### GitHub Stats
+### Timmy's Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1104030360&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1104030360&layout=compact&theme=tokyonight&hide=c" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1104030360&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1104030360&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
 </p>
 
 ---
