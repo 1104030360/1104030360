@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timmy Lin</h1>
-<h3 align="center">Technical Intern @ Microsoft Taiwan | NCU MIS Student</h3>
+<h3 align="center">A student from Taiwan</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/timmyyt" target="_blank">
@@ -15,7 +15,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/1104030360)**
 - 📄 Know about my experiences on my **[Personal Blog](https://1104030360.github.io/Timmy_Personal_Blog/)**
@@ -35,10 +35,10 @@
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Python, Java, JavaScript, QML |
-| **Frontend** | Vue.js, React, HTML5, CSS3 |
+| **Frontend** | Vue.js, React, HTML5, CSS |
 | **Backend** | Flask, Django, FastAPI, Java Servlet |
 | **Database** | MySQL, PostgreSQL, FAISS |
-| **AI/ML** | RAG, Multi-Agent, AutoGen, LLM, OpenCV |
+| **AI/ML** | RAG, Multi-Agent, AutoGen, LLM, VLM, OpenCV |
 | **DevOps** | Docker, Git |
 | **Cloud** | Microsoft Azure |
 
